@@ -1,5 +1,5 @@
 {
-  "shiftlevels": ["Control"],
+  "shiftlevels": ["AltGr"],
   "keys": [
     {"pos": "[",     "letters": ["\u001b"]},
     {"pos": "]",     "letters": ["\u001d"]},

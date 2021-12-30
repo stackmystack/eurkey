@@ -1,5 +1,5 @@
 {
-  "shiftlevels": ["Alt+Control", "Shift+Alt+Control" ],
+  "shiftlevels": ["AltGr", "Shift+AltGr" ],
   "keys": [
     {"pos": "6", "letters": [ "cdk:circumflex", "cdk:caron" ], "capslock": false},
     {"pos": "7", "letters": [ "cdk:overdot", "cdk:overbar" ],  "capslock": false},
